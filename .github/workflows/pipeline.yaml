@@ -8,7 +8,7 @@ on:
     branches:
       - main
 jobs:
-  Dummy job:
+  Dummy-job:
     runs-on: alpine-latest
     steps:
       - name: Dummy step
